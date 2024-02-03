@@ -1,0 +1,9 @@
+main {
+    height: 80vh;
+    width: 80%;
+}
+
+ body {
+    display: flex;
+    justify-content: center;
+ }
